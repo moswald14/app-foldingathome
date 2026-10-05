@@ -15,6 +15,13 @@ Join the Home Assistant Folding@home team! (id: 247478)
 
 Team stats: <https://stats.foldingathome.org/team/247478>
 
+## USA version verification
+
+Verification code: `KURU`
+
+This is a public verification marker for this USA version fork. It is not a
+password, Folding@home passkey, account token, or access credential.
+
 ## Installation
 
 The installation of this app is pretty straightforward and not different in
